@@ -28,7 +28,7 @@
 - 다른 소프트웨어 시스템과 통신하기 위해 따라야 하는 규칙
 - 웹 API는 클라이언트와 웹 리소스 사이의 게이트웨이
 
-![캡처.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df57ed60-2084-4def-b71e-4126d9fee5e4/%EC%BA%A1%EC%B2%98.png)
+![캡처.PNG](https://user-images.githubusercontent.com/85854928/217722753-1d649659-2242-4229-9d9f-d1ae0fb8e5f1.png)
 
 ---
 
@@ -159,7 +159,7 @@
     - 리소스를 제거
     - 적절한 인증이 필요
     
-    ![캡처2.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4291189a-8170-4b64-a2ac-58d3305243ed/%EC%BA%A1%EC%B2%982.png)
+    ![캡처2.PNG](https://user-images.githubusercontent.com/85854928/217722800-89d5bcd0-8a22-4503-9c52-09f968399e4b.png)
     
 
 ---
