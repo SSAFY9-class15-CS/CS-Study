@@ -1,17 +1,14 @@
-<aside>
+
+# REST API
+
 💡 rest 아키텍처 스타일을 따르는 api
 
-</aside>
 
-<aside>
 🔥 RESTful API는 RESTful 웹 API를 나타내지만 REST API와 RESTful API는 같은 의미로 사용할 수 있음
 
-</aside>
 
-<aside>
 🙅🏻‍♀️ 현재 대부분의 rest api는 rest api가 아님
 
-</aside>
 
 # REST
 
