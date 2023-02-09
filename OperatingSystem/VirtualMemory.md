@@ -17,7 +17,7 @@
 
 External Fragmentation을 극복하기 위한 메모리 관리 방법. 논리주소의 메모리를 고정된 크기의 페이지로 나누어 관리하는 기법. 페이지 테이블을 통해 논리적 페이지 주소와 물리적 메모리 공간인 프레임을 매핑한다.
 
-![KakaoTalk_Photo_2023-01-22-16-33-39.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d35293b0-bb33-4766-9fae-baa517b31803/KakaoTalk_Photo_2023-01-22-16-33-39.jpeg)
+
 
 ### 지역성
 
@@ -37,7 +37,7 @@ valid bit이 ‘1’이면 메인 메모리 상에 해당 페이지가 올라와
 
 valid bit이 ‘0’이면 해당 페이지는 스왑 영역에 있다는 뜻이고, page fault가 발생하게 된다.
 
-![KakaoTalk_Photo_2023-01-22-16-33-50.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94ff28dd-5667-444b-9b5c-5691d1992c50/KakaoTalk_Photo_2023-01-22-16-33-50.jpeg)
+
 
 **-Swap Area**
 
@@ -53,7 +53,7 @@ Translation Lookaside Buffer. 페이지 테이블은 메인 메모리 위에 존
 
 자주 참조되는 가상주소-물리주소 변환 정보를 저장해놓은 캐시이다. 가상 주소로 데이터 접근시, TLB에 먼저 접근하여 변환 정보가 있는지 확인하고 있으면 바로 변환하고 없으면 페이지 테이블에 찾으러 간다. 단, TLB에 변환 정보가 없는 경우(TLB 미스), 페이지 테이블에서 해당 물리 주소를 찾아 TLB에 갱신 후, TLB 미스가 발생한 명령어를 재실행한다.
 
-![KakaoTalk_Photo_2023-01-22-20-54-56.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2350b3ed-03fa-40f9-8ef7-bba34dfb2518/KakaoTalk_Photo_2023-01-22-20-54-56.jpeg)
+
 
 ## P**age Replacement Policy**
 
@@ -75,7 +75,7 @@ LRU의 approximation 이다. 원형 큐와 Reference bit을 사용한다. 시간
 
 하드웨어적으로 일정 시간마다 reference bit 을 0으로 초기화 해준다. 그리고 해당 프레임이 사용될경우 reference bit을 1로 변경해준다. 쫓아낼 frame을 탐색할때는  reference bit 이 0 인 frame을 찾아 내보낸다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d4da403f-5986-48b4-817b-30edf884a4ea/Untitled.png)
+
 
 ## Page Replacement Style
 
