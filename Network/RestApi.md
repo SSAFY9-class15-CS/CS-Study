@@ -218,6 +218,5 @@
 
 - 응답에는 응답에 대한 헤더 또는 메타데이터도 포함 / 서버, 인코딩, 날짜 및 콘텐츠 유형과 같은 정보 포함
 
-[<REST API> 꼬리질문](https://www.notion.so/REST-API-3ace8b3f866b4372986f429ba2b011e2)
 
-[REST API 발표용](https://www.notion.so/REST-API-cf60afb7fc6941a8ba9dbe729b0cdaf9)
+
