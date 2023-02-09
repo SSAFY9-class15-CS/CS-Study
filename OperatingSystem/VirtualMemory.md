@@ -17,7 +17,7 @@
 
 External Fragmentation을 극복하기 위한 메모리 관리 방법. 논리주소의 메모리를 고정된 크기의 페이지로 나누어 관리하는 기법. 페이지 테이블을 통해 논리적 페이지 주소와 물리적 메모리 공간인 프레임을 매핑한다.
 
-
+![KakaoTalk_Photo_2023-01-22-16-33-39](https://user-images.githubusercontent.com/108070719/217721093-051a7db2-2662-4a93-a5ac-64c1e2b6e67c.jpeg)
 
 ### 지역성
 
