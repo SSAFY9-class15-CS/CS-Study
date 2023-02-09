@@ -30,7 +30,7 @@
 
 
 ## 🔷 운영체제
-
+- [가상 메모리](https://github.com/Songwonseok/CS-Study/blob/main/CommonSense/%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%E2%85%A0.md)
 
 
 ## 🔷 네트워크
