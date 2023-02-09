@@ -6,11 +6,6 @@
 3. 랜덤으로 1~2명 요약 발표.
 
 
-<br>
-
----
-
-<br>
 
 # **👨‍💻 스터디원**
 
@@ -24,11 +19,6 @@
 | 전영호 | [@youngho9999](https://github.com/youngho9999) |
 | 전준규 | [@JeonJungyu-1](https://github.com/JeonJungyu-1) |
 
-<br>
-
----
-
-<br>
 
 ## 📙 용어 한줄 정리
 - 파일: 문자열로 된 이름을 지닌 보조 기억 장치에 저장된 데이터 집합.
