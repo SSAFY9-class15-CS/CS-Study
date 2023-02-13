@@ -35,6 +35,7 @@
 
 ## 🔷 네트워크
 - [REST API](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/RestApi.md)
+- [쿠키,세션] (https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/Cookie_Session.md)
 
 ## 🔷 데이터베이스
 
