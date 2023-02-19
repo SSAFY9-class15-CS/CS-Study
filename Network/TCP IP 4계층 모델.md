@@ -8,8 +8,8 @@
 ## 계층 구조
 
 인터넷 프로토콜 스위트: 인터넷에서 컴퓨터들이 서로 정보를 주고받는 데 쓰이는 프로토콜의 집합, 이를 TCP/IP 4계층 모델로 설명하거나 OSI 7계층 모델로 설명하기도 함
+![Untitled](https://user-images.githubusercontent.com/102662024/219942027-d155b714-65df-4a80-bc5e-85ec78c7d5dd.png)
 
-![Untitled](TCP%20IP%204%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20ac34a208c65d4da6879c2b8376c71d22/Untitled.png)
 
 각 계층들은 특정 계층이 변경되었을 때 다른 계층이 영향을 받지 않도록 설계되었다. 예를 들어 전송 계층에서 TCP를 UDP로 변경했다고 해서 웹 브라우저를 다시 설치해야 하는 것은 아니다.
 
@@ -63,7 +63,7 @@
 
 TCP는 신뢰성을 확보할 때 3-way handshake라는 작업을 진행한다.
 
-![Untitled](TCP%20IP%204%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20ac34a208c65d4da6879c2b8376c71d22/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/102662024/219942052-711a8891-d29f-4756-9618-92c8178d5c5b.png)
 
 클라이언트와 서버가 통신할 때 다음과 같은 세 단계의 과정을 거친다.
 
@@ -75,7 +75,7 @@ TCP는 신뢰성을 확보할 때 3-way handshake라는 작업을 진행한다.
 
 4-way handshake라는 과정이 발생한다.
 
-![Untitled](TCP%20IP%204%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20ac34a208c65d4da6879c2b8376c71d22/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/102662024/219942059-d66bfb1a-cf64-4e6a-bfec-f08da487b787.png)
 
 1. 클라이언트가 연결을 닫으려고 할 때 FIN으로 설정된 세그먼트를 보낸다. 그리고 클라이언트는 FIN-WAIT-1 상태로 들어가고 서버의 응답을 기다린다.
 2. 서버는 클라이언트로 ACK라는 승인 세그먼트를 보낸다. 그리고 CLOSE-WAIT로 상태로 들어간다. 클라이언트가 세그먼트를 받으면 FIN-WAIT-2 상태에 들어간다.
@@ -92,9 +92,9 @@ TCP는 신뢰성을 확보할 때 3-way handshake라는 작업을 진행한다.
 
 네트워크 서비스나 특정 프로세스를 식별하여 어떤 애플리케이션인지 구분하는 역할
 
-![Untitled](TCP%20IP%204%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20ac34a208c65d4da6879c2b8376c71d22/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/102662024/219942072-5179875a-0070-4a27-8e39-5b1405976266.png)
 
-![Untitled](TCP%20IP%204%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20ac34a208c65d4da6879c2b8376c71d22/Untitled%204.png)
+![Untitled 4](https://user-images.githubusercontent.com/102662024/219942077-4eaf39d8-6b8c-4298-9b9e-002d8ca2865e.png)
 
 데이터를 전송할 때는 상대방의 IP 주소가 필요하지만, 어떤 애플리케이션을 사용하는지 구분하려면 포트 번호가 필요하다.
 
@@ -104,7 +104,7 @@ SSH, DNS, HTTP 등 응용 프로그램이 사용되는 프로토콜 계층이며
 
 ## 계층 간 데이터 송수신 과정
 
-![Untitled](TCP%20IP%204%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20ac34a208c65d4da6879c2b8376c71d22/Untitled%205.png)
+![Untitled 5](https://user-images.githubusercontent.com/102662024/219942082-16423e3c-9b4e-40d6-ad15-c396b807adec.png)
 
 애플리케이션 계층에서 전송 계층으로 필자가 보내는 요청(request) 값들이 캡슐화 과정을 거쳐 전달되고, 다시 링크 계층을 통해 해당 서버와 통신을 하고, 해당 서버의 링크 계층으로부터 애플리케이션까지 비캡슐화 과정을 거쳐 데이터가 전송된다.
 
@@ -112,7 +112,7 @@ SSH, DNS, HTTP 등 응용 프로그램이 사용되는 프로토콜 계층이며
 
 상위 계층의 헤더와 데이터를 하위 계층의 데이터 부분에 포함시키고 해당 계층의 헤더를 삽입하는 과정
 
-![Untitled](TCP%20IP%204%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20ac34a208c65d4da6879c2b8376c71d22/Untitled%206.png)
+![Untitled 6](https://user-images.githubusercontent.com/102662024/219942094-c56b7947-7571-4822-8422-1351243666fd.png)
 
 애플리케이션 계층 → 전송 계층 - 데이터그램화
 
@@ -124,7 +124,7 @@ SSH, DNS, HTTP 등 응용 프로그램이 사용되는 프로토콜 계층이며
 
 하위 계층에서 상위 계층으로 가며 각 계층의 헤더 부분을 제거하는 과정
 
-![Untitled](TCP%20IP%204%E1%84%80%E1%85%A8%E1%84%8E%E1%85%B3%E1%86%BC%20%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%20ac34a208c65d4da6879c2b8376c71d22/Untitled%207.png)
+![Untitled 7](https://user-images.githubusercontent.com/102662024/219942104-8e25bdce-e57e-4fd4-8201-7c62a35e509c.png)
 
 ### PDU
 
