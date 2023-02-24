@@ -35,7 +35,7 @@
 
 ## 🔷 운영체제
 - [가상 메모리](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/OperatingSystem/VirtualMemory.md)
-
+    [꼬리질문](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/%3C%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%3E%20%EA%BC%AC%EB%A6%AC%EC%A7%88%EB%AC%B8.md)
 
 ## 🔷 네트워크
 - [REST API](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/RestApi.md)
