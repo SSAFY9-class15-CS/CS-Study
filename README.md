@@ -39,11 +39,6 @@
 
 
 ## 🔷 네트워크
-- [REST API](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/RestApi.md)
-- [쿠키,세션](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/Cookie_Session.md)
-- [TCP/IP 4계층](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/TCP%20IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8.md)
-- [SSR,CSR](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/SSR%26CSR.md)
-
 - **[REST API](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/RestApi.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/REST%20API.md)
 - **[쿠키,세션](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/Cookie_Session.md)**
