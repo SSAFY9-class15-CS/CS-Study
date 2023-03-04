@@ -74,7 +74,7 @@
 
 
 ## 🔷 JAVA
-- **[Java GC]**
+- **[Java GC](https://github.com/JungInLee0130/CS-Study/blob/main/JAVA/GC.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/GC.md)
 ## 🔷 JAVA Spring
 
