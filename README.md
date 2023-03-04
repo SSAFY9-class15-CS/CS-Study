@@ -69,16 +69,13 @@
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/TCP-IP%204%EA%B3%84%EC%B8%B5.md)
 - **[SSR,CSR](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/SSR%26CSR.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/SSR%2CCSR.md)
-- **[Java GC]**
-    - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/GC.md)
 ## 🔷 데이터베이스
 
 
 
 ## 🔷 JAVA
-
-
-
+- **[Java GC]**
+    - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/GC.md)
 ## 🔷 JAVA Spring
 
 
