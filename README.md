@@ -70,7 +70,7 @@
 - **[SSR,CSR](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/SSR%26CSR.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/SSR%2CCSR.md)
 - **[Java GC]**
-    - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/SSR%2CCSR.md)
+    - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/GC.md)
 ## 🔷 데이터베이스
 
 
