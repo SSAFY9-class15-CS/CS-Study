@@ -1,7 +1,4 @@
 
-
-![제목_없는_아트워크](https://user-images.githubusercontent.com/108070719/222895711-896bbe2d-bbcd-46e2-b93d-c7101f17d75a.jpg)
-
 # **🙋‍♂️ 스터디 진행방식**
 1. 용어 한줄 정리
 2. 조사해온 CS내용 발표
