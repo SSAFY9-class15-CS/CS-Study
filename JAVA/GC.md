@@ -169,3 +169,10 @@ for (int i = 0; i < 1000; i++){
 - 쓰레기가 쌓여 꽉 찬 영역을 우선적으로 청소한다.
 - 실시간 방식이 아니다.
 - 일시정지(Stop-the-world) 시간을 완전히 없애진못한다.
+
+## 참고자료:
+- https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EA%B0%80%EB%B9%84%EC%A7%80-%EC%BB%AC%EB%A0%89%EC%85%98GC-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%F0%9F%92%AF-%EC%B4%9D%EC%A0%95%EB%A6%AC
+- https://d2.naver.com/helloworld/1329
+- https://itkjspo56.tistory.com/285
+- https://youtu.be/Fe3TVCEJhzo?list=LL
+- https://youtu.be/FMUpVA0Vvjw?list=LL
