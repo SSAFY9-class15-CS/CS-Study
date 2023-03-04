@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=350&section=header&text=Welcome!&fontSize=90&fontAlignY=40&desc=to%209reat%20AlgoMasters&descAlign=65&descAlignY=55)
+![header](https://user-images.githubusercontent.com/108070719/222894601-d7098200-453e-4ff4-81ec-d743d94db101.jpg)
 
 # **🙋‍♂️ 스터디 진행방식**
 1. 용어 한줄 정리
