@@ -37,7 +37,7 @@ valid bit이 ‘1’이면 메인 메모리 상에 해당 페이지가 올라와
 
 valid bit이 ‘0’이면 해당 페이지는 스왑 영역에 있다는 뜻이고, page fault가 발생하게 된다.
 
-
+![demandP](https://user-images.githubusercontent.com/108070719/224492604-ac058f06-c484-45c5-be0c-e7619dc056fc.jpeg)
 
 **-Swap Area**
 
@@ -53,7 +53,7 @@ Translation Lookaside Buffer. 페이지 테이블은 메인 메모리 위에 존
 
 자주 참조되는 가상주소-물리주소 변환 정보를 저장해놓은 캐시이다. 가상 주소로 데이터 접근시, TLB에 먼저 접근하여 변환 정보가 있는지 확인하고 있으면 바로 변환하고 없으면 페이지 테이블에 찾으러 간다. 단, TLB에 변환 정보가 없는 경우(TLB 미스), 페이지 테이블에서 해당 물리 주소를 찾아 TLB에 갱신 후, TLB 미스가 발생한 명령어를 재실행한다.
 
-
+![TLB](https://user-images.githubusercontent.com/108070719/224492607-0ccda1ff-5422-45fb-9fdc-fd78b289fe85.jpeg)
 
 ## P**age Replacement Policy**
 
