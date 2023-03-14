@@ -63,11 +63,11 @@
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/TCP-IP%204%EA%B3%84%EC%B8%B5.md)
 
 ## 🔷 웹
-- **[REST API](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/RestApi.md)**
+- **[REST API](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/RestApi.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/REST%20API.md)
-- **[쿠키,세션](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/Cookie_Session.md)**
+- **[쿠키,세션](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/Cookie_Session.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/Cookie%2CSession.md)
-- **[SSR,CSR](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/SSR%26CSR.md)**
+- **[SSR,CSR](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/SSR%26CSR.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/SSR%2CCSR.md)
 - **[클라우드]()**
     - [Questions](https://github.com/JungInLee0130/CS-Study/blob/main/Questions/CloudService.md)
