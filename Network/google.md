@@ -132,7 +132,7 @@ NAT는 private address 라는 개념을 도입해서 이 문제를 해결하였�
 
 ### 출처
 
-, Tsutomu Tone 저, 성안당.
+성공과 실패를 결정하는 1% 네트워크 ,Tsutomu Tone 저, 성안당.
 
 컴퓨터 네트워크 강의, 한양대학교 교수 이석복 ([http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70](http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70))
 
