@@ -10,7 +10,7 @@
 
 그 원리에 대해 먼저 간략히 설명하자면, 인터넷이란 수 많은 라우터의 집합체라고 볼 수 있다. 도착지의 IP 주소를 알게 되면 도착하기 위해 거쳐가는 라우터들이 길을 알려주는 형식이다.
 
-![제목_없는_아트워크(resize).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e163590f-4d0b-4340-b3f2-2a6777f5f41a/%EC%A0%9C%EB%AA%A9_%EC%97%86%EB%8A%94_%EC%95%84%ED%8A%B8%EC%9B%8C%ED%81%AC(resize).jpg)
+![제목_없는_아트워크(resize)](https://user-images.githubusercontent.com/108070719/230247949-4b944d62-7f64-4998-a9da-c2e4333c2bdc.jpg)
 
 <설명 과정>
 
@@ -58,7 +58,7 @@ DNS 는 UDP 프로토콜로 동작한다.
 
 DNS 동작의 흐름에 대해 자세히 알아보자.
 
-![캡처.PNG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a3e6d472-8b9a-491f-866f-c15bd452b183/%EC%BA%A1%EC%B2%98.png)
+<img width="605" alt="캡처 PNG" src="https://user-images.githubusercontent.com/108070719/230247984-aad20e85-ec60-4f1d-8681-af53be959bb9.png">
 
 **1.** 웹 브라우저에 www.naver.com을 입력하면 먼저 PC에 저장된 **Local DNS(기지국 DNS 서버)**에게 "www.naver.com"에 대한 IP 주소를 요청한다. 
 
@@ -86,7 +86,7 @@ DNS 동작의 흐름에 대해 자세히 알아보자.
 
 그 과정에 대해 자세히 알아보자.
 
-## 1. 포워딩 테이블
+  ## 1. 포워딩 테이블
 
 IP : 32비트 2진수로 구성 되어있다. 사람이 읽기 쉽게 만들기 위해, 8비트 씩 끊어서 10진수로 표현하는 경우가 많다. ex) 192.168.2.145
 
@@ -94,7 +94,7 @@ IP : 32비트 2진수로 구성 되어있다. 사람이 읽기 쉽게 만들기 
 
 라우터는 내부의 Forwarding Table을 보고 패킷을 포워딩해주게 된다. 포워딩 테이블은 다음과 같이 생겼다.
 
-![routing table.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e6348f3-0b6e-4612-bcca-49ae8561607f/routing_table.png)
+<img width="768" alt="routing table" src="https://user-images.githubusercontent.com/108070719/230247990-be223d24-e492-48ff-a63b-8fefd964618e.png">
 
 이런 포워딩 테이블을 채우는 과정을 라우팅 알고리즘 이라고 한다.
 
@@ -129,7 +129,8 @@ NAT는 private address 라는 개념을 도입해서 이 문제를 해결하였�
 
 그전에 IP 주소는 전세계에서 유일한 주소라고 하였는데 어떻게 이게 가능할까? 외부에선 private address 를 볼 수 없기 때문이다. DHCP 설명에서 우리는 IP를 할당받을 때 동시에 게이트웨이 라우터 IP 주소도 받는다고 했다. 브라우저가 http 메시지를 생성해서 그 패킷을 게이트웨이 라우터로 보내게 된다. 그럼 라우터는 패킷을 뜯어서 적혀있는 출발지 IP 주소를 자신의 public IP 주소로 변경하고,포트번호에는 임의의 포트번호를 적어서 내보낸다. 이때 이 임의의 포트번호는 원래 IP 주소와 매핑시켜 내부에 저장해 둔다. 그 후 응답메시지가 왔을 때 포트번호를 확인하고 매핑테이블을 체크해서 원래 보낸 클라이언트 컴퓨터에 메시지를 전달하게 된다.
 
-출처
+
+### 출처
 
 , Tsutomu Tone 저, 성안당.
 
