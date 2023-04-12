@@ -71,7 +71,7 @@
 - **[TCP/IP 4계층](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/TCP%20IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/TCP-IP%204%EA%B3%84%EC%B8%B5.md)
 - **[브라우저에 www.google.com을 입력하면 일어나는 일](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/google.md)**
-    - [Questions]()
+    - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/what%20happen%20when%20type%20google.md)
 ## 🔷 웹
 - **[REST API](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/RestApi.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/REST%20API.md)
@@ -81,6 +81,9 @@
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/SSR%2CCSR.md)
 - **[클라우드](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/CloudService.md)**
     - [Questions](https://github.com/JungInLee0130/CS-Study/blob/main/Questions/CloudService.md)
+- **[클로저](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/Closure.md)**
+    - [Questions](https://github.com/JungInLee0130/CS-Study/blob/main/Questions/CloudService.md)
+   
 ## 🔷 데이터베이스
 
 
