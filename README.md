@@ -61,7 +61,8 @@
 - API: 프로그램 간 소통을 가능케 해주는 인터페이스
 - OOP: 데이터를 상태와 행동으로 추상화시킨 객체간의 상호작용을 근간으로 삼는 프로그래밍 패러다임.
 - 함수형 프로그래밍: 불변성과 순수함수를 지향하고 무엇을 할 것 인가에 주목하는 프로그래밍 패러다임. 
-
+- 데이터베이스: 조직의 여러 사용자가 공유하여 사용할 수 있도록 통합,저장한 데이터의 집합.
+- Devops: 개발과 운영의 간극을 줄이는 것.
 ## 🔷 운영체제
 - **[가상 메모리](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/OperatingSystem/VirtualMemory.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/%3C%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%3E%20%EA%BC%AC%EB%A6%AC%EC%A7%88%EB%AC%B8.md)
