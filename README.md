@@ -86,7 +86,7 @@
 - **[클라우드](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/CloudService.md)**
     - [Questions](https://github.com/JungInLee0130/CS-Study/blob/main/Questions/CloudService.md)
 - **[클로저](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/Closure.md)**
-    - [Questions](https://github.com/JungInLee0130/CS-Study/blob/main/Questions/CloudService.md)
+    - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/closure_Question.md)
    
 ## 🔷 데이터베이스
 
