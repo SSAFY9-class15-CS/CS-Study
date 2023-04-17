@@ -45,28 +45,33 @@
 - **<4/6> 클로저**
     - 발표자 - 전준규
     - 한줄 용어 정리: 데이터베이스, Devops
-- **<4/13> 암호화**
+- **<4/13> Cryptography**
     - 발표자 - 금세현
-    - 한줄 용어 정리: 동시성, 
+    - 한줄 용어 정리: 동시성, 병렬성
+- **<4/20> Process Synchronization**
+    - 발표자 - 서지오
+    - 한줄 용어 정리: 다형성, 캡슐화
     
     
 ## 📙 용어 한줄 정리
 - 파일: 문자열로 된 이름을 지닌 보조 기억 장치에 저장된 데이터 집합.
-- 추상화: 복잡한 내부 구조를 감추고 사용자 친화적인 인터페이스를 제공하는 것
+- 추상화: 복잡한 내부 구조를 감추고 사용자 친화적인 인터페이스를 제공하는 것.
 - 인터페이스: 시스템 간 경계면에 존재하여 규칙에 기반한 소통을 가능케하는 매개체.
 - 프레임워크:  재사용 가능한 클래스를 모아두되, 그 제어 권한은 자신에게 있는 소프트웨어 개발 틀.
-- 프로세스: 메모리에 올라와 실행중인 프로그램 
+- 프로세스: 메모리에 올라와 실행중인 프로그램 .
 - 프로그램: 특정 목적을 위해 만들어진 명령문의 집합.
 - 쓰레드: 프로세스 내부의 작업을 실행하는 최소 단위.
 - 라이브러리: 재사용 가능한 함수들의 집합.
 - 백엔드: 프론트엔드와 상호작용하며 데이터를 처리, 저장하고 사용자 요청에 대한 응답을 생성.
 - 프론트엔드: 모바일과 웹 어플리케이션의 사용자 인터페이스를 개발하는 분야.
 - 브라우저: 서버와 통신하여 웹 리소스를 받아서 사용자에게 보여주는 GUI SW.
-- API: 프로그램 간 소통을 가능케 해주는 인터페이스
+- API: 프로그램 간 소통을 가능케 해주는 인터페이스.
 - OOP: 데이터를 상태와 행동으로 추상화시킨 객체간의 상호작용을 근간으로 삼는 프로그래밍 패러다임.
 - 함수형 프로그래밍: 불변성과 순수함수를 지향하고 무엇을 할 것 인가에 주목하는 프로그래밍 패러다임. 
 - 데이터베이스: 조직의 여러 사용자가 공유하여 사용할 수 있도록 통합,저장한 데이터의 집합.
 - Devops: 개발과 운영의 간극을 줄이는 것.
+- 동시성: 여러작업이 동시에 실행되는 것처럼 보이게 하는 것.
+- 병렬성: 여러작업이 실제로 동시에 실행되는 것.
 ## 🔷 운영체제
 - **[가상 메모리](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/OperatingSystem/VirtualMemory.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/%3C%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%3E%20%EA%BC%AC%EB%A6%AC%EC%A7%88%EB%AC%B8.md)
@@ -76,6 +81,8 @@
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/TCP-IP%204%EA%B3%84%EC%B8%B5.md)
 - **[브라우저에 www.google.com을 입력하면 일어나는 일](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/google.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/what%20happen%20when%20type%20google.md)
+- **[Cryptography]()**
+    - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/Cryptography.md)
 ## 🔷 웹
 - **[REST API](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/RestApi.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/REST%20API.md)
