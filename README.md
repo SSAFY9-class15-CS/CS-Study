@@ -81,7 +81,7 @@
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/TCP-IP%204%EA%B3%84%EC%B8%B5.md)
 - **[브라우저에 www.google.com을 입력하면 일어나는 일](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/google.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/what%20happen%20when%20type%20google.md)
-- **[Cryptography]()**
+- **[Cryptography](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/%EC%95%94%ED%98%B8%ED%99%94.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/Cryptography.md)
 ## 🔷 웹
 - **[REST API](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Web/RestApi.md)**
