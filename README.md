@@ -51,6 +51,9 @@
 - **<4/20> Process Synchronization**
     - 발표자 - 서지오
     - 한줄 용어 정리: 다형성, 캡슐화
+- **<4/27> Git**
+    - 발표자 - 김수민
+    - 한줄 용어 정리: OCP, DIP
     
     
 ## 📙 용어 한줄 정리
@@ -72,9 +75,14 @@
 - Devops: 개발과 운영의 간극을 줄이는 것.
 - 동시성: 여러작업이 동시에 실행되는 것처럼 보이게 하는 것.
 - 병렬성: 여러작업이 실제로 동시에 실행되는 것.
+- 다형성: 객체 자신이나 그 멤버들이 상황에 따라 여러가지 형태를 가질 수 있는 성질.
+- 캡슐화: 서로 연관 있는 속성과 기능 등을 하나의 캡슐로 만들어 데이터를 외부로 부터 보호 하는 것.
+
 ## 🔷 운영체제
 - **[가상 메모리](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/OperatingSystem/VirtualMemory.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/%3C%EA%B0%80%EC%83%81%EB%A9%94%EB%AA%A8%EB%A6%AC%3E%20%EA%BC%AC%EB%A6%AC%EC%A7%88%EB%AC%B8.md)
+- **[Process Synchronization]()**
+    - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/Process%20Synchronization.md)
 
 ## 🔷 네트워크
 - **[TCP/IP 4계층](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Network/TCP%20IP%204%EA%B3%84%EC%B8%B5%20%EB%AA%A8%EB%8D%B8.md)**
