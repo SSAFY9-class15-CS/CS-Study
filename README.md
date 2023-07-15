@@ -105,22 +105,10 @@
 - **[GIT](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/CI%2CCD/Git.md)**
     - [Questions]()
 
-   
-## 🔷 데이터베이스
-
-
 ## 🔷 JAVA
 - **[Java GC](https://github.com/JungInLee0130/CS-Study/blob/main/JAVA/GC.md)**
     - [Questions](https://github.com/SSAFY9-class15-CS/CS-Study/blob/main/Questions/GC.md)
-## 🔷 JAVA Spring
 
-
-
-## 🔷 자료구조
-
-
-
-## 🔷 알고리즘
 
 
 
